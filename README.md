@@ -57,6 +57,9 @@ yarn start || npm start
 
 ---
 
+<img width=500px height=200px src="./front-end/public/assets/img/img1.png" alt="img1"></a>
+<img width=500px height=200px src="./front-end/public/assets/img/img2.png" alt="img1"></a>
+
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@lourencovitor](https://github.com/lourencovitor) - Vitor Lourenço da Silva
